@@ -1,2 +1,2 @@
 # ReactApp
-For practice purpose
+For practice purpose I use this reposirtory
